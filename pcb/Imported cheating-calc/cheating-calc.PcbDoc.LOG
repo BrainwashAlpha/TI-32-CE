@@ -1,0 +1,547 @@
+Importer Log Report
+Document: C:\Users\arnav\Documents\GitHub\TI-32-CE\pcb\cheating-calc.kicad_pcb
+    Section : Analyze Document from - C:\Users\arnav\Documents\GitHub\TI-32-CE\pcb\cheating-calc.kicad_pcb
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_circle.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child zone of footprint.
+        Warning: Unknown child zone of footprint.
+        Warning: Unknown child zone of footprint.
+        Warning: Unknown child zone of footprint.
+        Warning: Unknown child zone of footprint.
+        Warning: Unknown child zone of footprint.
+        Warning: Unknown child zone of footprint.
+        Warning: Unknown child zone of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of gr_line.
+        Warning: Unknown child stroke of gr_line.
+        Warning: Unknown child stroke of gr_line.
+        Warning: Unknown child stroke of gr_line.
+        Warning: Unknown child stroke of gr_line.
+        Warning: Unknown child stroke of gr_line.
+        Warning: Unknown child stroke of gr_line.
+        Warning: Unknown child stroke of gr_line.
+        Warning: Unknown child stroke of gr_line.
+        Warning: Unknown child stroke of gr_line.
+        Warning: Unknown child 'face' of 'font'.
+        Warning: Unknown child render_cache of gr_text.
+        Warning: Unknown child 'face' of 'font'.
+        Warning: Unknown child render_cache of gr_text.
+        Warning: Unknown child 'face' of 'font'.
+        Warning: Unknown child render_cache of gr_text.
+        Warning: Unknown child 'face' of 'font'.
+        Warning: Unknown child render_cache of gr_text.
+        Warning: Unknown child 'face' of 'font'.
+        Warning: Unknown child render_cache of gr_text.
+        Warning: Unknown child island_removal_mode of fill.
+        Warning: Unknown child island_area_min of fill.
+        Warning: Unknown child island of filled_polygon.
+        Warning: Unknown child island of filled_polygon.
+        Warning: Unknown child island of filled_polygon.
+    EndSection
+    Section : Import Document - C:\Users\arnav\Documents\GitHub\TI-32-CE\pcb\Imported cheating-calc\cheating-calc.PcbDoc
+        Event: Nets was imported.
+        Event: Component Q1 was successfully imported.
+        Event: Component J1 was successfully imported.
+        Event: Component R4 was successfully imported.
+        Event: Component R2 was successfully imported.
+        Event: Component U1 was successfully imported.
+        Event: Component R3 was successfully imported.
+        Event: Component Q2 was successfully imported.
+        Event: Component R1 was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 11 vertices was successfully imported.
+        Event: Text 'RING' was successfully imported.
+        Event: Text 'GND' was successfully imported.
+        Event: Text 'TIP
+' was successfully imported.
+        Event: Text '5V' was successfully imported.
+        Event: Text 'TI-32 v0.1
+ChromaLock
+2024' was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 2 vertices was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 2 vertices was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 2 vertices was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 2 vertices was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 2 vertices was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 2 vertices was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 2 vertices was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 2 vertices was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 2 vertices was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 2 vertices was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 2 vertices was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 2 vertices was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 2 vertices was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 2 vertices was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 2 vertices was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 2 vertices was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 2 vertices was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 2 vertices was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 2 vertices was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 2 vertices was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 2 vertices was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 2 vertices was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 2 vertices was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 2 vertices was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 2 vertices was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 2 vertices was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 2 vertices was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 2 vertices was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 2 vertices was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 2 vertices was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 2 vertices was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 2 vertices was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 2 vertices was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 2 vertices was successfully imported.
+        Event: Via on [152.019,-68.199] was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 2 vertices was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 2 vertices was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 2 vertices was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 2 vertices was successfully imported.
+        Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        Event: Line with 2 vertices was successfully imported.
+        Event: Via on [147.32,-68.199] was successfully imported.
+        Event: Via on [125.095,-64.135] was successfully imported.
+        Event: Via on [125.095,-59.055] was successfully imported.
+        Event: Zone with 4 vertices was successfully imported.
+        Event: Zone with 8 vertices was successfully imported.
+        Event: Zone with 4 vertices was successfully imported.
+        Section : Component Q1 importing.
+            Event: Text 'user ${REFERENCE}' was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Event: Graphical polygone with 4 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Event: Pad 1 on [-0.9375,0.95] was successfully imported.
+            Event: Pad 2 on [-0.9375,-0.95] was successfully imported.
+            Event: Pad 3 on [0.9375,-0] was successfully imported.
+        EndSection
+        Section : Component J1 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Event: Pad 1 on [0,-0] was successfully imported.
+            Event: Pad 2 on [0,-2.54] was successfully imported.
+            Event: Pad 3 on [0,-5.08] was successfully imported.
+            Event: Pad 4 on [0,-7.62] was successfully imported.
+        EndSection
+        Section : Component R4 importing.
+            Event: Text 'user ${REFERENCE}' was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Event: Pad 1 on [0,-0] was successfully imported.
+            Event: Pad 2 on [10.16,-0] was successfully imported.
+        EndSection
+        Section : Component R2 importing.
+            Event: Text 'user ${REFERENCE}' was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Event: Pad 1 on [0,-0] was successfully imported.
+            Event: Pad 2 on [10.16,-0] was successfully imported.
+        EndSection
+        Section : Component U1 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Event: Rect was successfully imported.
+            Event: Graphical polygone with 4 vertices was successfully imported.
+            Event: Pad 1 on [0.835,18.12] was successfully imported.
+            Event: Pad 2 on [0.835,15.58] was successfully imported.
+            Event: Pad 3 on [0.835,13.04] was successfully imported.
+            Event: Pad 4 on [0.835,10.5] was successfully imported.
+            Event: Pad 5 on [0.835,7.96] was successfully imported.
+            Event: Pad 6 on [0.835,5.42] was successfully imported.
+            Event: Pad 7 on [0.835,2.88] was successfully imported.
+            Event: Pad 8 on [17,2.88] was successfully imported.
+            Event: Pad 9 on [17,5.42] was successfully imported.
+            Event: Pad 10 on [17,7.96] was successfully imported.
+            Event: Pad 11 on [17,10.5] was successfully imported.
+            Event: Pad 12 on [17,13.04] was successfully imported.
+            Event: Pad 13 on [17,15.58] was successfully imported.
+            Event: Pad 14 on [17,18.12] was successfully imported.
+        EndSection
+        Section : Component R3 importing.
+            Event: Text 'user ${REFERENCE}' was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Event: Pad 1 on [0,-0] was successfully imported.
+            Event: Pad 2 on [10.16,-0] was successfully imported.
+        EndSection
+        Section : Component Q2 importing.
+            Event: Text 'user ${REFERENCE}' was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Event: Graphical polygone with 4 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Event: Pad 1 on [-0.9375,0.95] was successfully imported.
+            Event: Pad 2 on [-0.9375,-0.95] was successfully imported.
+            Event: Pad 3 on [0.9375,-0] was successfully imported.
+        EndSection
+        Section : Component R1 importing.
+            Event: Text 'user ${REFERENCE}' was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Event: Line with 2 vertices was successfully imported.
+            Event: Pad 1 on [0,-0] was successfully imported.
+            Event: Pad 2 on [10.16,-0] was successfully imported.
+        EndSection
+    EndSection

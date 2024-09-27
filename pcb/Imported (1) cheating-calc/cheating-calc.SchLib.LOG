@@ -1,0 +1,85 @@
+Importer Log Report
+Document: C:\Users\arnav\Documents\GitHub\TI-32-CE\pcb\cheating-calc.kicad_sch
+    Section : Loading Schematic - C:\Users\arnav\Documents\GitHub\TI-32-CE\pcb\cheating-calc.kicad_sch
+        Warning: Unknown child dnp of symbol.
+        Warning: Unknown child instances of symbol.
+        Warning: Unknown child dnp of symbol.
+        Warning: Unknown child instances of symbol.
+        Warning: Unknown child dnp of symbol.
+        Warning: Unknown child instances of symbol.
+        Warning: Unknown child dnp of symbol.
+        Warning: Unknown child instances of symbol.
+        Warning: Unknown child dnp of symbol.
+        Warning: Unknown child instances of symbol.
+        Warning: Unknown child dnp of symbol.
+        Warning: Unknown child instances of symbol.
+        Warning: Unknown child dnp of symbol.
+        Warning: Unknown child instances of symbol.
+        Warning: Unknown child dnp of symbol.
+        Warning: Unknown child instances of symbol.
+        Warning: Unknown child dnp of symbol.
+        Warning: Unknown child instances of symbol.
+        Warning: Unknown child dnp of symbol.
+        Warning: Unknown child instances of symbol.
+        Warning: Unknown child dnp of symbol.
+        Warning: Unknown child instances of symbol.
+        Warning: Unknown child dnp of symbol.
+        Warning: Unknown child instances of symbol.
+        Warning: Unknown child dnp of symbol.
+        Warning: Unknown child instances of symbol.
+        Warning: Unknown child dnp of symbol.
+        Warning: Unknown child instances of symbol.
+        Warning: Unknown child dnp of symbol.
+        Warning: Unknown child instances of symbol.
+        Warning: Unknown child dnp of symbol.
+        Warning: Unknown child instances of symbol.
+        Warning: Unknown child dnp of symbol.
+        Warning: Unknown child instances of symbol.
+    EndSection
+    Section : Loading Schematic - C:\Users\arnav\Documents\GitHub\TI-32-CE\pcb\cheating-calc.kicad_sch
+        Warning: Unknown child dnp of symbol.
+        Warning: Unknown child instances of symbol.
+        Warning: Unknown child dnp of symbol.
+        Warning: Unknown child instances of symbol.
+        Warning: Unknown child dnp of symbol.
+        Warning: Unknown child instances of symbol.
+        Warning: Unknown child dnp of symbol.
+        Warning: Unknown child instances of symbol.
+        Warning: Unknown child dnp of symbol.
+        Warning: Unknown child instances of symbol.
+        Warning: Unknown child dnp of symbol.
+        Warning: Unknown child instances of symbol.
+        Warning: Unknown child dnp of symbol.
+        Warning: Unknown child instances of symbol.
+        Warning: Unknown child dnp of symbol.
+        Warning: Unknown child instances of symbol.
+        Warning: Unknown child dnp of symbol.
+        Warning: Unknown child instances of symbol.
+        Warning: Unknown child dnp of symbol.
+        Warning: Unknown child instances of symbol.
+        Warning: Unknown child dnp of symbol.
+        Warning: Unknown child instances of symbol.
+        Warning: Unknown child dnp of symbol.
+        Warning: Unknown child instances of symbol.
+        Warning: Unknown child dnp of symbol.
+        Warning: Unknown child instances of symbol.
+        Warning: Unknown child dnp of symbol.
+        Warning: Unknown child instances of symbol.
+        Warning: Unknown child dnp of symbol.
+        Warning: Unknown child instances of symbol.
+        Warning: Unknown child dnp of symbol.
+        Warning: Unknown child instances of symbol.
+        Warning: Unknown child dnp of symbol.
+        Warning: Unknown child instances of symbol.
+    EndSection
+    Section : Import Document - C:\Users\arnav\Documents\GitHub\TI-32-CE\pcb\Imported (1) cheating-calc\cheating-calc.kicad_sch.SchDoc
+        Error: Cannot create document of kind SCH from 'cheating-calc_template.SCHDOT'.
+        Error: Document importing critical error
+ File : C:\Users\arnav\Documents\GitHub\TI-32-CE\pcb\cheating-calc.kicad_sch
+ Document is null
+    EndSection
+    Section : Import Document - C:\Users\arnav\Documents\GitHub\TI-32-CE\pcb\Imported (1) cheating-calc\cheating-calc.SchLib
+        Error: Document importing critical error
+ File : C:\Users\arnav\Documents\GitHub\TI-32-CE\pcb\cheating-calc.kicad_sch
+ Document is null
+    EndSection

@@ -1,0 +1,4 @@
+LTspice 24.0.12 for Windows
+Circuit: .title KiCad schematic
+Start Time: Wed Sep 25 16:35:00 2024
+Fatal Error: Missing Base node for Q1

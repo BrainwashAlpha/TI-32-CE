@@ -1,0 +1,10 @@
+.title KiCad schematic
+Q1 __Q1
+R1 +3.3V RING_GPIO R
+R2 +3.3V TIP_GPIO R
+R3 +5V RING R
+Q2 __Q2
+R4 +5V TIP R
+J1 __J1
+U1 __U1
+.end
